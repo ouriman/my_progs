@@ -1,9 +1,0 @@
-=> git add .
-=> git commit -m "Text instruction file added."
-=> git push
-
-#########
-Git Clonning
-- Copy https url
-- Type Git clone , paste url
-
